@@ -2,7 +2,7 @@
 # Jogo do Detona Ralph
 
 Projeto Criando um Jogo do Detona Ralph com JavaScript com HTML e CSS referente ao *Bootcamp Potência Tech iFood - Desenvolvimento de Jogos*, é um projeto para criar um jogo onde quando você clica no Ralph corretamente ele aumenta o score.
-## Teste o jogo -[aqui](https://suaymack.github.io/jogo_detona_ralph/)
+## Teste o jogo [aqui](https://suaymack.github.io/jogo_detona_ralph/)
 
 
 ## Funcionalidades Adicionadas
